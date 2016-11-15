@@ -1,9 +1,0 @@
-Popicofkas
-
-Janko
-
-<<<<<<< Upstream, based on da97e86cdad7af5abd75978ae5c7bccc1327c662
-hehe ratlo
-=======
-Marek
->>>>>>> f686822 Dopisal som Marek second.txt
